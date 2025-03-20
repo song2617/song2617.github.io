@@ -7,4 +7,4 @@
 * milch
 * brot
 
-## nach [Essen mit Nummern](https://song2617.github.io/detail)
+## nach [Essen mit Nummern](https://song2617.github.io/details)
